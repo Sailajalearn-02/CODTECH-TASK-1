@@ -1,3 +1,8 @@
+NAME:SAILAJA DONGA  
+COMPANY:CODTECH IT SOLUTIONS  
+ID:CT08DS521  
+DOMAIN:DATASCIENCE  
+DURATION:SEPTEMBER TO NOVEMBER  
 # Exploratory Data Analysis Project
 ## Overview
 Welcome to the Exploratory Data Analysis (EDA) Project repository! This project is dedicated to uncovering insights, patterns, and trends within our dataset through comprehensive exploratory data analysis techniques. By leveraging various statistical and visualization tools, we aim to provide a clear understanding of the underlying data structure and inform subsequent data-driven decisions.
